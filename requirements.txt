@@ -1,0 +1,13 @@
+casadi
+diffusers
+matplotlib
+numpy
+opencv-python
+Pillow
+scikit-image
+scipy
+shapely
+tensorboard
+torch
+torchvision
+tqdm

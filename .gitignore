@@ -1,0 +1,54 @@
+# Python caches and environments
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE and operating-system state
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Model checkpoints and experiment artifacts
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+data/
+checkpoints/
+outputs/
+output*/
+result*/
+logs/
+runs/
+events.out.tfevents.*
+*.log
+
+# Generated arrays, media, and archives
+*.npy
+*.npz
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.avi
+*.mov
+*.zip
+*.7z
+*.rar
+
+# Temporary Office files
+~$*.docx
+~$*.pptx
+~$*.xlsx
