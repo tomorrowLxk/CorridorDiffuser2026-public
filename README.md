@@ -4,7 +4,7 @@ Core research code for **"CorridorDiffuser: Velocity-Aware Safe Corridor Generat
 
 This repository is a cleaned source snapshot of a completed research project. It is maintained for code access and project preservation; it is not a packaged software release.
 
-This work has been accepted and published in * IEEE Transactions on Automation Science and Engineering (T-ASE)*. If you find this code or the associated methodology useful in your research, we would greatly appreciate it if you could cite our paper.
+This work has been accepted and published in *IEEE Transactions on Automation Science and Engineering (T-ASE)*. If you find this code or the associated methodology useful in your research, we would greatly appreciate it if you could cite our paper.
 
 ```bibtex
 @ARTICLE{11745550,
