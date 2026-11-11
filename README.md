@@ -16,7 +16,7 @@ This work has been accepted and published in * IEEE Transactions on Automation S
   number={},
   pages={18861-18875},
   doi={10.1109/TASE.2026.3745653}}
-
+```
 
 ## Contents
 
