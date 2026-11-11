@@ -4,6 +4,20 @@ Core research code for **"CorridorDiffuser: Velocity-Aware Safe Corridor Generat
 
 This repository is a cleaned source snapshot of a completed research project. It is maintained for code access and project preservation; it is not a packaged software release.
 
+This work has been accepted and published in * IEEE Transactions on Automation Science and Engineering (T-ASE)*. If you find this code or the associated methodology useful in your research, we would greatly appreciate it if you could cite our paper.
+
+```bibtex
+@ARTICLE{11745550,
+  author={Liu, Xuekai and Hang, Peng and Zhang, Hao and Sun, Jian},
+  journal={IEEE Transactions on Automation Science and Engineering}, 
+  title={CorridorDiffuser: Velocity-Aware Safe Corridor Generation for Motion Planning in Cluttered Environments}, 
+  year={2026},
+  volume={23},
+  number={},
+  pages={18861-18875},
+  doi={10.1109/TASE.2026.3745653}}
+
+
 ## Contents
 
 - `CorridorDiffuser/`: diffusion model, loss functions, data loader, training, and inference scripts.
@@ -48,3 +62,6 @@ Datasets and checkpoints are not stored in Git. A Hugging Face artifact archive 
 ## License
 
 The repository is distributed under the MIT License. See `LICENSE`.
+
+
+
